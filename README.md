@@ -70,6 +70,9 @@ SQL · Relational data modeling · Job-market analytics
 - Skill frequency measures association in job advertisements, not a causal effect on salary or employability.
 - Refresh the source data before making current career-market decisions.
 
-## Author
 
-Sai Datta Putta
+---
+
+**Sai Datta Putta**
+
+[LinkedIn](https://www.linkedin.com/in/sai-datta-putta/)
